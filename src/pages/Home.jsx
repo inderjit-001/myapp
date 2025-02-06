@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../components/header/Header";
 import Hero from "../components/home/Hero";
 import Services from "../components/home/Services";
 import Technology from "../components/home/Technology";
