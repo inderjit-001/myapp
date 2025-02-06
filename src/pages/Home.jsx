@@ -8,7 +8,6 @@ import BuildFaster from "../components/home/BuildFaster";
 const Home = () => {
   return (
     <>
-      <Header />
       <main>
         <Hero />
         <Services />
